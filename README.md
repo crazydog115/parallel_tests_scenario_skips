@@ -61,7 +61,7 @@ Finished in 0.005256s, 0.0000 runs/s, 0.0000 assertions/s.
 0 runs, 0 assertions, 0 failures, 0 errors, 0 skips
 ```
 
-1. Run `parallel_spinach features --group-by scenarios`. Only 4 scenarios are run (B, C, D, E)
+2. Run `parallel_spinach features --group-by scenarios`. Only 4 scenarios are run (B, C, D, E)
 
 ```ruby
 $ parallel_spinach features --group-by scenarios
@@ -148,4 +148,4 @@ Finished in 0.004624s, 0.0000 runs/s, 0.0000 assertions/s.
 Took 10.674182 seconds
 
 ```
-```
+
